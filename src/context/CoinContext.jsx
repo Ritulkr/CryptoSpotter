@@ -4,7 +4,7 @@ export const CoinContext = createContext();
 
 const CoinContextProvider = (props)=>{
 
-    const API_KEY = 'CG-K797q4peuZUJHCznQxsKp5Ag' // Replace 'your-api-key-here' with your actual CoinGecko API key
+    const API_KEY = 'CG-K797q4peuZUJHCznQxsKp5Ag' // Replace 'your-api-key-here' with your actual CoinGecko API KEY
 
     const [allCoin, setAllCoin] = useState([]);
     const [currency, setCurrency] = useState({
