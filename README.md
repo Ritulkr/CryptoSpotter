@@ -10,7 +10,7 @@ CryptoSpotter is a sleek and intuitive React JS application for tracking cryptoc
 - Detailed information about each cryptocurrency, including market cap, volume, and more
 - Responsive design for a seamless experience on both desktop and mobile devices
 - Search functionality to easily find specific cryptocurrencies
-- Favorites list to track your preferred coins
+
 
 ## Demo
 
