@@ -14,7 +14,7 @@ CryptoSpotter is a sleek and intuitive React JS application for tracking cryptoc
 
 ## Demo
 
-Check out the live demo of CryptoSpotter [here](#).
+Check out the live demo of CryptoSpotter [here](https://crypto-spotter.vercel.app/).
 
 ## Screenshots
 
