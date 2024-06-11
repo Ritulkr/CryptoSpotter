@@ -1,6 +1,4 @@
-Sure, here's the updated README file with the GitHub repo link:
 
----
 
 # CryptoSpotter
 
@@ -57,12 +55,6 @@ To run CryptoSpotter locally, follow these steps:
    http://localhost:3000
    ```
 
-## Usage
-
-1. **Home Page:** View a list of popular cryptocurrencies with their current prices.
-2. **Search:** Use the search bar to find specific cryptocurrencies by name or symbol.
-3. **Details Page:** Click on a cryptocurrency to view detailed information.
-4. **Favorites:** Add cryptocurrencies to your favorites list for quick access.
 
 ## API Reference
 
